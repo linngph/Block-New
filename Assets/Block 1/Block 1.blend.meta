@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 8e48da352eb443449a05f8c90d08e439
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 62ce5d9a60b66aa48ac0f2ccfe9fea4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c1306e77ab2c4f54d86fce35fb0f348e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_bench
+    second: {fileID: 2100000, guid: 23d37ad2f05a82c47b016cc9a54d14fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_big_table
+    second: {fileID: 2100000, guid: f80cd29ec367f78458b7795eac5668dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_birch_bark
+    second: {fileID: 2100000, guid: 018b30a95168b4944acc8d3e380c9f98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_brick
+    second: {fileID: 2100000, guid: dc741a8ca92e2164ead45a223db10fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_bucket
+    second: {fileID: 2100000, guid: 2df73db888852764eb60aae96af83e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_burnt_wood
+    second: {fileID: 2100000, guid: 6891ae0e3e59ebd4ba59ce9de3d35d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_cable
+    second: {fileID: 2100000, guid: a3596d80a1b1d6a40abd57669a5d3a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_canoe
+    second: {fileID: 2100000, guid: 906e8c5338e5acb4e9c22ea70cb61b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_car
+    second: {fileID: 2100000, guid: 96f1c00e81c78b34fa91979ad0eeea3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_computer
+    second: {fileID: 2100000, guid: db80b28c70b1b984bb396939af542061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_concrete
+    second: {fileID: 2100000, guid: a2ad377e5d4bec243a803b74f5ee8745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_decals
+    second: {fileID: 2100000, guid: fb67fa303619be64495c0da047baebb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_foliage
+    second: {fileID: 2100000, guid: eb4db2f11bbaaa843a74cd857dfdc0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_forest_floor
+    second: {fileID: 2100000, guid: bfb62f506f544a74fa7e9c80c3773560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_hottub
+    second: {fileID: 2100000, guid: 0b7c9ed4fce70f14a80ccb0e5277e272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_house_deck
+    second: {fileID: 2100000, guid: 020823214c6dd934ba9f97649b6171d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_mossy_rock
+    second: {fileID: 2100000, guid: d9aea1559f64f3e49bbb3d3ba297d71e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_plank_wall
+    second: {fileID: 2100000, guid: d7dc3e8d000a46b439646435c5549c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_radiotower
+    second: {fileID: 2100000, guid: b0cc4f22cda0ceb4db81eb430fc21017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_rifle
+    second: {fileID: 2100000, guid: 855b4abe5798a6e4a9153f984c2dbaa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_river
+    second: {fileID: 2100000, guid: 720381b34bcc814439fb28ad27534851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_river_deck
+    second: {fileID: 2100000, guid: 811d55c1c90aa1e46ad368292af1d502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_river_deck_railings
+    second: {fileID: 2100000, guid: b68738d1dfb3bae44b31cddf2f50d12c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_river_rocks
+    second: {fileID: 2100000, guid: e292361d9fdf8b049904e8c24eb05693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_river_transition
+    second: {fileID: 2100000, guid: 72514bc266bb3ed45bcf929bd00af9f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_roof
+    second: {fileID: 2100000, guid: 0b81a4666ff9e1f42be93ca20823487b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_siderock
+    second: {fileID: 2100000, guid: aa3486e0cc51fa3458f8f7d0d08e8736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_small_props
+    second: {fileID: 2100000, guid: 63be93ae29073a440b92cae9c7d2069a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_small_table
+    second: {fileID: 2100000, guid: 8f8bf3781351fd849aae3cd053314dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_transparent_decals
+    second: {fileID: 2100000, guid: e8f41c0daebe7bf4bbfc045ca3417a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_trims
+    second: {fileID: 2100000, guid: d8a63942e75d7a94db4f29fc888840c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_water_wheel
+    second: {fileID: 2100000, guid: a9426000d87af6945bccecd093c4b96c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_waterfall
+    second: {fileID: 2100000, guid: dfdbfb2e7ff08ab42ac410ba6c1ab070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_willow_bark
+    second: {fileID: 2100000, guid: b92e7f806c3c1f948b38b0398d3a5a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_willow_leaves
+    second: {fileID: 2100000, guid: cb54f300d1735e444b478c4771791888, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
